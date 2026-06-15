@@ -1,16 +1,29 @@
-## Hi there 👋
+```md
+## /whoami
 
-<!--
-**vzd3v/vzd3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Code since 2005. Still for fun.
 
-Here are some ideas to get you started:
+Product, engineering, data, AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Enterprise digital strategy and transformation since 2018:
+retail, e-commerce, medtech, martech, edtech, gamedev.
+
+Since 2025: AI agents across the product lifecycle, not only coding:
+workflows, runtime, access, logs, metrics, rollout, and failure modes.
+
+Usually somewhere between:
+
+- digital strategy
+- IT products
+- AI / LLM systems
+- software development
+- analytics
+- product and engineering processes
+
+Sometimes I commit to public repos:
+
+[gotd/td#1786](https://github.com/gotd/td/pull/1786) ·
+[ai-forever/gpt2giga#108](https://github.com/ai-forever/gpt2giga/pull/108) ·
+[MisterTea/EternalTerminal#746](https://github.com/MisterTea/EternalTerminal/pull/746) ·
+[salute-developers/GigaAM#60](https://github.com/salute-developers/GigaAM/pull/60)
+```
