@@ -1,4 +1,3 @@
-```md
 ## /whoami
 
 Code since 2005. Still for fun.
@@ -13,12 +12,12 @@ workflows, runtime, access, logs, metrics, rollout, and failure modes.
 
 Usually somewhere between:
 
-- digital strategy
-- IT products
-- AI / LLM systems
-- software development
-- analytics
-- product and engineering processes
+* digital strategy
+* IT products
+* AI / LLM systems
+* software development
+* analytics
+* product and engineering processes
 
 Sometimes I commit to public repos:
 
@@ -26,4 +25,3 @@ Sometimes I commit to public repos:
 [ai-forever/gpt2giga#108](https://github.com/ai-forever/gpt2giga/pull/108) ·
 [MisterTea/EternalTerminal#746](https://github.com/MisterTea/EternalTerminal/pull/746) ·
 [salute-developers/GigaAM#60](https://github.com/salute-developers/GigaAM/pull/60)
-```
