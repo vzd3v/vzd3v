@@ -19,9 +19,7 @@ Usually somewhere between:
 * analytics
 * product and engineering processes
 
-Sometimes I commit to public repos:
-
-[gotd/td#1786](https://github.com/gotd/td/pull/1786) ·
+Occasional small fixes in public repos: [gotd/td#1786](https://github.com/gotd/td/pull/1786) ·
 [ai-forever/gpt2giga#108](https://github.com/ai-forever/gpt2giga/pull/108) ·
 [MisterTea/EternalTerminal#746](https://github.com/MisterTea/EternalTerminal/pull/746) ·
 [salute-developers/GigaAM#60](https://github.com/salute-developers/GigaAM/pull/60)
