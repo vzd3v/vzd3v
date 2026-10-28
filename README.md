@@ -1,17 +1,10 @@
 ## /whoami
 
-Code since 2005. Still for fun.
-
-Product, engineering, data, AI.
-
-Enterprise digital strategy and transformation since 2018:
-retail, e-commerce, medtech, martech, edtech, gamedev.
-
-Since 2025: AI agents across the product lifecycle, not only coding:
-workflows, runtime, access, logs, metrics, rollout, and failure modes.
+Code since 2005. 
+Enterprise digital strategy and transformation since 2018: retail, e-commerce, medtech, martech, edtech, gamedev.
+AI agents across the product lifecycle, not only coding:workflows, runtime, access, logs, metrics, rollout, and failure modes.
 
 Usually somewhere between:
-
 * digital strategy
 * IT products
 * AI / LLM systems
