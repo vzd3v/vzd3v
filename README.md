@@ -4,15 +4,10 @@ Code since 2005.
 Enterprise digital strategy and transformation since 2018: retail, e-commerce, medtech, martech, edtech, gamedev.
 AI agents across the product lifecycle, not only coding:workflows, runtime, access, logs, metrics, rollout, and failure modes.
 
-Usually somewhere between:
-* digital strategy
-* IT products
-* AI / LLM systems
-* software development
-* analytics
-* product and engineering processes
+Contributor in:
 
-Occasional small fixes in public repos: [gotd/td#1786](https://github.com/gotd/td/pull/1786) ·
-[ai-forever/gpt2giga#108](https://github.com/ai-forever/gpt2giga/pull/108) ·
-[MisterTea/EternalTerminal#746](https://github.com/MisterTea/EternalTerminal/pull/746) ·
-[salute-developers/GigaAM#60](https://github.com/salute-developers/GigaAM/pull/60)
+- [gotd/td](https://github.com/gotd/td) — Telegram client library for Go.
+- [ai-forever/gpt2giga](https://github.com/ai-forever/gpt2giga) — GigaChat proxy for OpenAI, Anthropic, and Gemini clients.
+- [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) — remote terminal with automatic reconnection.
+- [salute-developers/GigaAM](https://github.com/salute-developers/GigaAM) — speech recognition models.
+- [knowsuchagency/mcp2cli](https://github.com/knowsuchagency/mcp2cli) — CLI for MCP, OpenAPI, and GraphQL services.
